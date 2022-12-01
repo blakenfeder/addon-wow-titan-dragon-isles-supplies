@@ -1,0 +1,22 @@
+## Interface: 100002
+
+## Title: Titan Panel [|cffeda55fDragon Isles Supplies|r] |cff00aa001.2.0.100002|r
+## Author: Blakenfeder
+## Version: 1.2.0.100002
+
+## Notes: Adds Dragon Isles Supplies tracking to Titan Panel
+
+## RequiredDeps: Titan
+## X-Child-Of: Titan
+
+## DefaultState: Enabled
+
+## X-Category: Titan Panel
+## X-Website: https://github.com/blakenfeder/addon-wow-titan-dragon-isles-supplies
+
+## X-Curse-Project-ID: 694256
+
+locale\Locale.enUS.lua
+locale\Locale.esMX.lua
+
+TitanDragonIslesSupplies.xml
